@@ -56,7 +56,7 @@
 
 ## 🛠️ التثبيت  
 ```bash  
-git clone https://github.com/yourname/HR-Tool  
+git clone https://github.com/rrvmiii/HR-Tool.git 
 cd HR-Tool  
 pip install -r requirements.txt  
 
