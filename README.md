@@ -1,5 +1,5 @@
 # 🔥 HR Tool (ar)
-**📌أداة متكاملة لتسهيل الاختراق الأخلاقي📌**
+**📌أداة متكاملة لتسهيل الاختراق الأخلاقي [رابط شرح الاداه](https://youtube.com)**
 
 ## ⚠️ تحذير  
 **ممنوع استخدامها لأغراض غير قانونية ، انا مش مسؤل عن اي استخدام خطأ!**  
@@ -48,7 +48,7 @@
 > • 🌟 وكل هذه المميزات يمكنك التحكم بها عبر بوت التليجرام الخاص بك!
 
 # 🔥 HR Tool (en)  
-**📌An all-in-one tool to facilitate ethical hacking📌**
+**📌An all-in-one tool to facilitate ethical hacking [Tutorial Video](https://youtube.com)**
 
 ## ⚠️ Warning  
 **Using this tool for illegal purposes is strictly prohibited. I’m not responsible for any misuse!**
