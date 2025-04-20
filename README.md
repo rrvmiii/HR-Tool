@@ -103,3 +103,5 @@
 git clone https://github.com/rrvmiii/HR-Tool.git  
 cd HR-Tool  
 pip install -r requirements.txt
+
+enjoy :)
