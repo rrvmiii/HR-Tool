@@ -54,7 +54,7 @@
 **Using this tool for illegal purposes is strictly prohibited. I’m not responsible for any misuse!**
 
 ## ✨ Features  
-**- 🐀 Full Remote Control:**
+**- 🐀 RAT:**
 
  • 📂 File grabbing, cookie/data extraction, file encryption.  
  
@@ -62,7 +62,7 @@
  
  • 📶 Grab saved Wi-Fi networks.
 ---
-**- 📶 Cracking Wi-Fi Networks:**
+**- 📶 Cracking Wi-Fi:**
 
  • 💥 Captures handshakes from networks.  
  
@@ -70,7 +70,7 @@
  
  • ❇️ Auto-connects after successful crack.
 ---
-**- 📶 Wi-Fi Network Attacks:**
+**- 📶 Wi-Fi Attacks:**
 
  • 💣 Creates fake access points.  
  
