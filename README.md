@@ -12,7 +12,7 @@
  • 💻 فتح كاميرا ، فتح مايك ، ضغطات الكيبورد.
  
  • 📶 سحب شبكات الواي المحفوظة.
----
+
 **- 📶 كسر شبكات الواي فاي:**
 
  • 💥 يلتقط Handshake من الشبكات.
@@ -20,7 +20,7 @@
  • ☄️ يشن هجمات كسر كلمات المرور.
  
  • ❇️ يتصل تلقائي بعد الاختراق.
----
+
 **- 📶 الهجوم علي شبكات الواي فاي:**
 
  • 💣 انشاء نقطة وصول وهمية.
@@ -28,13 +28,13 @@
  • 🔎 يراقب حركة المرور.
 
  • 👻 يحصل علي الباسورد ويتصل بالشبكة تلقائيا.
----
+
 **- 🔐 سحب بيانات:**
 
  • 🤖 يسحب بيانات المتصفحات (توكينات ، كوكيز ، كلمات سر).
 
  • 🖇 بيانات Discord ، Steam ، Telegram ، gmail ، الخ الخ.
----
+
 **- 🗒 صفحات مزيفة:**
 
  • 👽 صفحات تسجيل دخول مزيفة لأي موقع.
@@ -61,7 +61,7 @@
  • 💻 Open camera, activate mic, keylogger.  
  
  • 📶 Grab saved Wi-Fi networks.
----
+
 **- 📶 Cracking Wi-Fi:**
 
  • 💥 Captures handshakes from networks.  
@@ -69,7 +69,7 @@
  • ☄️ Launches password cracking attacks.  
  
  • ❇️ Auto-connects after successful crack.
----
+
 **- 📶 Wi-Fi Attacks:**
 
  • 💣 Creates fake access points.  
@@ -77,7 +77,7 @@
  • 🔎 Monitors network traffic.  
  
  • 👻 Grabs password and connects automatically.
----
+
 **- 🔐 Data Extraction:**
 
  • 🤖 Extracts browser data (tokens, cookies, passwords).  
@@ -85,19 +85,21 @@
  • 🖇 Discord, Steam, Telegram, Gmail data, etc.
 
 **- 🗒 Phishing Pages:**
----
+
  • 👽 Fake login pages for any site.  
  
  • 😾 Discord, Steam, Gmail, Instagram, etc.
+ 
 
-```• 🌟 All these features are controllable via your custom Telegram bot.```
+
+>• 🌟 All these features are controllable via your custom Telegram bot.
+---
+>• 💋 Remember: Genius doesn’t obey the rules… but intelligence avoids prison!
+
+
 
 ## 🛠️ Installation  
 ```bash  
 git clone https://github.com/rrvmiii/HR-Tool.git  
 cd HR-Tool  
 pip install -r requirements.txt
-
----
-
-> 💋 Remember: Genius doesn’t obey the rules… but intelligence avoids prison!
